@@ -3,7 +3,7 @@ My name is Hans, I'm a student currently studying at Bina Nusantara University. 
 I also like to teach others about what I can do, which is one of the reason why I became a Lab Assistant at my University.
 
 ## How to Reach Me
-<a href="https://www.instagram.com/not_hanz/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/hans-william/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="hanz141204@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.instagram.com/not_hanz/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/hans-william/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="hanz141204@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ![Dynameiz's Stats](https://github-readme-stats.vercel.app/api?username=Dynameiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 <br>
