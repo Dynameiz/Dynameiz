@@ -17,7 +17,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dynameiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="dynameiz's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynameiz&theme=vue-dark&hide_border=true" alt="dynameiz's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynameiz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="dynameiz's GitHub Stats" />
 </span>
 
