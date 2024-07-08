@@ -1,15 +1,8 @@
-# `Hello World!`
-My name is Hans, I'm a student currently studying at Bina Nusantara University. Currently I am interested in the world of front-end and Internet of Things(IoT).
-I also like to teach others about what I can do, which is one of the reason why I became a Lab Assistant at my University.
+<h2 align="center" >Hello World!</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6F00FF&center=true&vCenter=true&random=false&width=690&height=69&lines=My+name+is+Hans;I'm+a+Computer+Science+Student" alt="Typing SVG" /></a>
+</div>
+<p align="center">Rubber Duck debugging at its finest</p>
 
-## How to Reach Me
-<a href="https://www.instagram.com/not_hanz/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/hans-william/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="mailto:hanz141204@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-![Dynameiz's Stats](https://github-readme-stats.vercel.app/api?username=Dynameiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-<br>
-![Dynameiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynameiz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-> <i>"Achieve greatness by excelling in your efforts, persisting through obstacles, acting <br></i>
-> <i>with integrity, respecting others, innovating with courage, and working collaboratively."</i>
->
-> <b>HN x ChatGPT</b>
+<h2>My Tech Stack</h2>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
