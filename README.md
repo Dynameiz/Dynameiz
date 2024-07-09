@@ -1,9 +1,11 @@
 <h2 align="center" >Hello World!</h2>
+
 <div align="center">
+  <img src="https://github.com/Dynameiz/Dynameiz/assets/154970671/69a90592-4ca9-4284-b2d6-97a65134c551" width="154" /> <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6F00FF&center=true&vCenter=true&random=false&width=690&height=69&lines=My+name+is+Hans;I'm+a+Computer+Science+Student" alt="Typing SVG" /></a>
 </div>
 <p align="center"><i>Rubber Duck debugging at its finest</i></p>
-<p align="center"> <b>> HN <</b> </p>
+<h3 align="center"> <b>> HN <</b> </h3>
 
 <br/>
 
@@ -27,6 +29,7 @@
 <hr/>
 
 <div align="center">
-  <i>"Achieve greatness by excelling in your efforts, persisting through obstacles, acting with integrity, respecting others, innovating with courage, and working collaboratively."</i> <br/>
-  <b><i>HN x ChatGPT</i></b>
+  <i>"Achieve greatness by excelling in your efforts, persisting through obstacles, acting with integrity, respecting others, innovating with courage, and working collaboratively."</i> <br/> <br/>
+  <b><i>> HN x ChatGPT <</i></b>
 </div>
+<hr/>
